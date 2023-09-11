@@ -28,3 +28,7 @@ sitio web desplegado: https://web2-design.vercel.app/
 - Vercel - para el despliegue de la web
 - Brandmark - para crear el logo
 - Squoosh - para optimizar las imagenes
+
+## Sobre Mi
+
+Porfolio: https://edwinsantos.tech/
