@@ -3,7 +3,7 @@
 const Estadia = () => {
   return (
     <div className="bg-grisclaro">
-      <div className="max-w-screen-xl flex flex-wrap items-center justify-center mx-auto md:w-11/12 lg:w-11/12 p-3 md:pl-0 mb-20">
+      <div className="max-w-screen-xl flex flex-wrap items-center justify-center mx-auto md:w-11/12 lg:w-11/12 p-3 md:pl-0 mb-12">
       
         <div className="block text-center py-12">
           <h3 className="text-white text-4xl md:text-5xl font-extrabold text-center">Planificar una estadia con nosotros hoy.</h3>

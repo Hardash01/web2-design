@@ -6,7 +6,7 @@ const Content = () => {
           <div className="lg:w-7/12">
             <img 
             className="lg:h-screen object-cover object-center mt-8"
-            src="/landingimg.jpg" alt="imagen landing" />
+            src="/img1.jpg" alt="imagen sobre" />
           </div>
           <div className="lg:w-5/12 mt-5 ">
             <h1 className="text-white text-4xl md:text-5xl font-semibold">Diseño Increible</h1>
@@ -34,7 +34,7 @@ const Content = () => {
           <div className="lg:w-7/12">
             <img 
             className="lg:h-screen object-cover object-center mt-8"
-            src="/landingimg.jpg" alt="imagen landing" />
+            src="/img2.jpg" alt="imagen recorrido" />
           </div>
         </div>
 
@@ -42,7 +42,7 @@ const Content = () => {
           <div className="lg:w-7/12">
             <img 
             className="lg:h-screen object-cover object-center mt-8"
-            src="/landingimg.jpg" alt="imagen landing" />
+            src="/img3.jpg" alt="imagen servicios" />
           </div>
           <div className="lg:w-5/12 mt-5 ">
             <h1 className="text-white text-4xl md:text-5xl font-semibold">Servicios</h1>

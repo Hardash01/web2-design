@@ -1,7 +1,7 @@
 
 const Footer = () => {
   return (
-      <footer className="max-w-screen-xl md:flex flex-wrap items-center justify-center md:justify-between mx-auto md:w-11/12 lg:w-11/12 p-3 md:pl-0 mb-20">
+      <footer className="max-w-screen-xl md:flex flex-wrap items-center justify-center md:justify-between mx-auto md:w-11/12 lg:w-11/12 p-3 md:pl-0 mb-12">
         <div>
           <a href='#' className="flex items-center py-2">
             <img
