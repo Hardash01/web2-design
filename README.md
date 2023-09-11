@@ -19,3 +19,12 @@ sitio web desplegado: https://web2-design.vercel.app/
 6. Uso de preprocesadores ( TailwindCC )
 7. Animacion al menu
 
+![responsive](https://github.com/Hardash01/web2-design/blob/main/public/responsive.jpg)
+
+## Herramientas usadas
+
+- Figma - Extrancion de Colores de los diseños
+- RepoSVG para los iconos: https://www.svgrepo.com/
+- Vercel - para el despliegue de la web
+- Brandmark - para crear el logo
+- Squoosh - para optimizar las imagenes
