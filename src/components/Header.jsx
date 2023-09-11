@@ -17,7 +17,7 @@ const Header = () => {
                 <a href='#' className="flex items-center py-2">
                     <img
                         className="h-12 w-auto"
-                        src="/public/logo.png"
+                        src="/logo.png"
                         alt="logo"
                     />
                 </a>
